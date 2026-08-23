@@ -1,2 +1,25 @@
 # Grand Bend Plumbing
-HVAC services in Ontario.
+
+> Grand Bend Plumbing is a local HVAC company serving Grand Bend, Lambton, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 554-3151  |  Email: contact@grandbendplumbing.ca  |  Website: https://grandbendplumbing.ca
+
+## Key pages
+
+- [Home](https://grandbendplumbing.ca/): Grand Bend Plumbing homepage with service overview and FAQ
+- [About](https://grandbendplumbing.ca/about/): About the company and service area
+- [Contact](https://grandbendplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://grandbendplumbing.ca/services/water-heaters/): Water Heaters in Grand Bend, Ontario
+- [Drain Cleaning](https://grandbendplumbing.ca/services/drain-cleaning/): Drain Cleaning in Grand Bend, Ontario
+- [Repiping](https://grandbendplumbing.ca/services/repiping/): Repiping in Grand Bend, Ontario
+- [Fixtures & Toilets](https://grandbendplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Grand Bend, Ontario
+- [Leak Detection & Repair](https://grandbendplumbing.ca/services/leak-detection/): Leak Detection & Repair in Grand Bend, Ontario
+- [Sump Pumps & Backwater](https://grandbendplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Grand Bend, Ontario
+- [Water Softeners & Filtration](https://grandbendplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Grand Bend, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Grand Bend are answered on the homepage.
